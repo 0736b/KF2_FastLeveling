@@ -9,4 +9,4 @@
 ## Features
 - [x] search address using Pattern Scan AoB (Pymem)
 - [x] patch bytes at address
-- [x] change every level max XP to 2
+- [x] change every level max XP to 2 (easily level up!)
